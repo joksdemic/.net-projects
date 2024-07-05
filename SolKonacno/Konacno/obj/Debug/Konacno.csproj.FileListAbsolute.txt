@@ -1,0 +1,11 @@
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\bin\Debug\Konacno.exe.config
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\bin\Debug\Konacno.exe
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\bin\Debug\Konacno.pdb
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\obj\Debug\Konacno.csproj.AssemblyReference.cache
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\obj\Debug\Konacno.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\obj\Debug\Konacno.Properties.Resources.resources
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\obj\Debug\Konacno.csproj.GenerateResource.cache
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\obj\Debug\Konacno.csproj.CoreCompileInputs.cache
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\obj\Debug\Konacno.exe
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\obj\Debug\Konacno.pdb
+C:\Users\jdemi\source\repos\SolKonacno\Konacno\obj\Debug\Konacno.Form1.resources
