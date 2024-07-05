@@ -1,0 +1,32 @@
+C:\C# programiranje\SolProjekat1\Projekat1\bin\Debug\Projekat1.exe.config
+C:\C# programiranje\SolProjekat1\Projekat1\bin\Debug\Projekat1.exe
+C:\C# programiranje\SolProjekat1\Projekat1\bin\Debug\Projekat1.pdb
+C:\C# programiranje\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.AssemblyReference.cache
+C:\C# programiranje\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.SuggestedBindingRedirects.cache
+C:\C# programiranje\SolProjekat1\Projekat1\obj\Debug\Projekat1.Form1.resources
+C:\C# programiranje\SolProjekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+C:\C# programiranje\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+C:\C# programiranje\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+C:\C# programiranje\SolProjekat1\Projekat1\obj\Debug\Projekat1.exe
+C:\C# programiranje\SolProjekat1\Projekat1\obj\Debug\Projekat1.pdb
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\bin\Debug\Projekat1.exe.config
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\bin\Debug\Projekat1.exe
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\bin\Debug\Projekat1.pdb
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.AssemblyReference.cache
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\obj\Debug\Projekat1.Form1.resources
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\obj\Debug\Projekat1.exe
+C:\Users\jdemi\OneDrive\Radna površina\SolProjekat1\Projekat1\obj\Debug\Projekat1.pdb
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\bin\Debug\Projekat1.exe.config
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\bin\Debug\Projekat1.exe
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\bin\Debug\Projekat1.pdb
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.AssemblyReference.cache
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\obj\Debug\Projekat1.Form1.resources
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\obj\Debug\Projekat1.exe
+C:\Users\jovan\OneDrive\Radna površina\C# 21.11\C# programiranje\gde radi ESC\SolProjekat1\Projekat1\obj\Debug\Projekat1.pdb
